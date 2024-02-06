@@ -22,7 +22,7 @@
 + 🌱  I'm on track for learning more about Web Development.
 + 🎤 In my free time, I do freestyle, listen to music, play chess and guitar as my hobbies.
 + 📮 My contact details are below ↓
-
++ 🎨 Fun fact: Although I started programming in 2023, take a look at my commits from 2017 😉
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
