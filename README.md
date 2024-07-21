@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cat+Lover...+<3;++;Systems+Engineer+Student;Frontend+Developer;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3">
 </p>
 
-
-<br>
-
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture>
