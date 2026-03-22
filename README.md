@@ -31,6 +31,7 @@
 - 🌍 Disponible para oportunidades **Remote / B2B / Contractor**.
 - 🎤 Hobbies: freestyle, música, ajedrez y guitarra.
 - ✉️ Email: **[jhonaq.1602@gmail.com](mailto:jhonaq.1602@gmail.com)**
+- 🌐 Puedes encontrar mi **Portafolio** aquí: [jhonaq.me](https://www.jhonaq.me)
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
